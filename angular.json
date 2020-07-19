@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "heroes"
+    }
+  },
+  "defaultProject": "heroes",
+  "cli": {
+    "analytics": "68053b7b-5c3e-4251-a5dc-fd2267e6a1a2"
+  }
 }
